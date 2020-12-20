@@ -1,0 +1,9 @@
+/node_modules/*
+/package-lock.json
+/fabric-client-kv-org*
+enrollAll.sh
+.*
+!.gitignore
+/artifacts/backup_*
+/artifacts/couchdb*
+/artifacts/src/github.com/hyperledger

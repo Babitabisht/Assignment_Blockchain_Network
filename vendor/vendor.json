@@ -1,0 +1,54 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "S4mYtIt2YZWN1ye0B3DRs9C07s4=",
+			"path": "bytes",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "OU615nnx8J37+fIwOLal6q/dFZ0=",
+			"path": "encoding/json",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "E2Ra+LFnmqFwTUANKOpO4x/9pjw=",
+			"path": "fmt",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "QjCwnV0+3EXOnv8KWj4brU65Lzw=",
+			"path": "github.com/hyperledger/fabric/core/chaincode/shim",
+			"revision": "86fcc446631a9c00911e34a1324f7e39f83086d1",
+			"revisionTime": "2019-08-29T13:21:45Z"
+		},
+		{
+			"checksumSHA1": "FNzlS9AEb2yLtmZRLX/iEavIoJ8=",
+			"path": "github.com/hyperledger/fabric/protos/peer",
+			"revision": "86fcc446631a9c00911e34a1324f7e39f83086d1",
+			"revisionTime": "2019-08-29T13:21:45Z"
+		},
+		{
+			"checksumSHA1": "zFKSDUEF1t4nTM1QMeCZZyzMK1o=",
+			"path": "reflect",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Y+daGEWnuBQpfY3RGNG8oAmSv8Y=",
+			"path": "strconv",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "EmGA95snmchkbiKVYNw+MiCXYpM=",
+			"path": "strings",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "qmtLKjmKMwLBZOfV/ULD7eAzIK0=",
+			"path": "time",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com"
+}
