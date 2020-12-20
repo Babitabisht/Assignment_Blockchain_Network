@@ -22,7 +22,7 @@ Inside artifacts -> src-> github.com
 3. Create an API Server which exposes APIs for these functionality.
 
 
-Technology stack :
+**Technology stack :**
 
 Hyperledger Fabric ( Single Organization with 3 Peers )
 Node.js ( For Rest API server )
