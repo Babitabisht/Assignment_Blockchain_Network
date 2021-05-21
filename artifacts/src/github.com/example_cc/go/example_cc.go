@@ -173,8 +173,8 @@ func (t *DocChaincode) getAllDocs(stub shim.ChaincodeStubInterface, args[]string
 
 
 func (t *DocChaincode) getfileInfoByHash(stub shim.ChaincodeStubInterface, args[]string) pb.Response {
-
-	queryString := fmt.Sprintf("{\"selector\":{\"Document\":\"Document\",\"FileHash\" : \"%s\" }}", args[0])
+	
+		queryString := fmt.Sprintf("{\"selector\":{\"Document\":\"Document\",\"fileHash\" : \"%s\" }}", args[0])
 		// Print the received query on the console
 		logger.Info("Query JSON=%s \n\n", queryString)
 
